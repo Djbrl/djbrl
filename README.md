@@ -26,8 +26,6 @@ Here you'll find all my projects, including full-stack apps like [TheQuestBoard]
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/djbrl/the-quest-board" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djbrl&repo=the-quest-board&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/djbrl/minishell" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djbrl&repo=minishell&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/djbrl/the-quest-board" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djbrl&repo=the-quest-board&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/djbrl/minishell" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djbrl&repo=minishell&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/djbrl/ft_irc" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djbrl&repo=ft_irc&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
