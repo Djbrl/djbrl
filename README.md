@@ -9,8 +9,8 @@ https://artstation.com/djbrl
 
 * 🌍  I am currently based in Paris, France, open to relocation !
 * ✉️  You can contact me at [sydjbrl@gmail.com](mailto:sydjbrl@gmail.com)
-* 🚀  I'm currently working on [TheQuestBoard](https://artquestboard.com)
-* 🧠  I'm learning Vue.js !
+* 🚀  I'm currently working on : AI engineering developer tools 
+* 🧠  I'm currently learning about : Rust, Vue.js
 
 ---
 
